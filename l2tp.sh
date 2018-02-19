@@ -4,8 +4,6 @@ export PATH
 #=======================================================================#
 #   System Supported:  CentOS 6+ / Debian 7+ / Ubuntu 12+               #
 #   Description: L2TP VPN Auto Installer                                #
-#   Author: Teddysun <i@teddysun.com>                                   #
-#   Intro:  https://teddysun.com/448.html                               #
 #=======================================================================#
 cur_dir=`pwd`
 
